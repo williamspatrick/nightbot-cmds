@@ -1,0 +1,6 @@
+awesome:
+  message: $(user) is pretty awesome!
+
+now:
+  message: $(twitch stwcx "{{displayName}} is currently {{game}}").
+  coolDown: 30
